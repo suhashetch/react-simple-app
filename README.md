@@ -1,6 +1,6 @@
 # Simple React App
 
-Built with the help of this course on [Redux](https://www.udemy.com/react-redux/)
+Built with the help of this excellent course on [Redux](https://www.udemy.com/react-redux/) by [StephenGrider](https://github.com/StephenGrider)
 
 ### Getting Started
 
